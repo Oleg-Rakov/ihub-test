@@ -1,0 +1,30 @@
+.container {
+  margin-top: 80px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #1d201f;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.text {
+  flex-basis: 40%;
+  text-align: center;
+}
+
+.duration {
+  font-size: 16px;
+  line-height: 24px;
+  color: #5b5b5b;
+  margin-bottom: 8px;
+}
